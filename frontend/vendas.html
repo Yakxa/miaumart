@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clientes</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Lista de Vendas</h1>
+        <nav class="navbar navbar-expand-lg navbar-light bg-aqua">
+            <a class="navbar-brand" href="index.html">MiauMart</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="clientes.html" id="show-clientes-link">Clientes</a></li>
+                    <li class="nav-item"><a class="nav-link" href="produtos.html" id="show-produtos-link">Produtos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#" id="show-vendas-link">Vendas</a></li>
+                </ul>
+            </div>
+        </nav> 
+
+        <div class="input-container mt-4">
+            <form class="form-inline justify-content-left">
+                <input class="form-control mr-2" type="text" placeholder="Insira o cliente" id="venda-nome-input">
+                <button class="btn btn-primary" type="button" id="confirm-button3">Pesquisar</button>
+            </form>
+        </div>
+
+        <table id="venda-clientes-container" class="table table-dark mt-4">
+            <thead>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Produto</th>
+                    <th>Quantidade</th>
+                    <th>Valor Unitário</th>
+                    <th>Total</th> 
+                    <th>Data</th>
+                </tr>
+            </thead>
+            <tbody id="vendas-output">
+                <!-- Clientes serão carregados aqui -->
+            </tbody>
+        </table>
+        <div id="venda-nomes-container" class="mt-4" style="display: none;">
+            <table class="table table-dark mt-4">
+                <thead>
+                    <tr>
+                        <th>Cliente</th>
+                        <th>Produto</th>
+                        <th>Quantidade</th>
+                        <th>Valor Unitário</th>
+                        <th>Total</th> 
+                        <th>Data</th>
+                    </tr>
+                </thead>
+                <tbody id="venda-nomes-output">
+                    <!-- Dados do cliente específico serão preenchidos aqui -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Custom JS -->
+    <script src="js/vendas.js"></script>
+</body>
+</html>

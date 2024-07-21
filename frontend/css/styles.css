@@ -1,0 +1,91 @@
+body {
+    background-color: #181825;
+    color: white; /* Para garantir que o texto seja visível */
+    padding-top: 20px;
+}
+/* Custom styles for the project */
+
+h1, h5, label, input, table, th, td, button {
+    color: white;
+}
+
+a {
+    font-size: 20px;
+}
+
+.input-container {
+    text-align: center; /* Centraliza o conteúdo dentro do container */
+    margin-top: 20px; /* Espaço acima do container */
+}
+
+.form-inline {
+    display: flex;
+    
+}
+
+.form-control {
+    width: auto; /* Ajusta a largura do campo de entrada */
+    margin-right: 0.5rem; /* Espaço entre o campo e o botão */
+}
+
+.my-4 {
+    color: #FF69B4;
+    border-bottom: 2px solid #f035c7; /* Cor da borda */
+    padding-bottom: 5px;
+}
+
+.nav-link:hover{
+    color:#141414; 
+    background-color: #f035c7; /* Cor de fundo ao passar o mouse */
+    border-radius: 0.25rem;
+}
+
+.navbar-brand:hover{
+    color:#141414; 
+    background-color: #f035c7; /* Cor de fundo ao passar o mouse */
+    border-radius: 0.25rem;
+}
+
+.bg-aqua{
+    background-color:aqua;
+}
+
+.table-vendas td, .table-vendas th {
+    padding: 10px; /* Ajuste o padding conforme necessário */
+    text-align: left; /* Alinhamento do texto à esquerda */
+    border-bottom: 1px solid #ddd; /* Linha separadora entre as células */
+}
+
+.table-clientes td, .table-clientes th {
+    padding: 10px; /* Ajuste o padding conforme necessário */
+    text-align: left; /* Alinhamento do texto à esquerda */
+    border-bottom: 1px solid #ddd; /* Linha separadora entre as células */
+}
+
+.table-produtos td, .table-produtos th {
+ 
+    padding: 10px; /* Ajuste o padding conforme necessário */
+    text-align: left; /* Alinhamento do texto à esquerda */
+    border-bottom: 1px solid #ddd; /* Linha separadora entre as células */
+}
+
+/* Adiciona padding à tabela de vendas dentro da tabela de clientes */
+.table-vendas, .table-produtos, .table-clientes {
+    margin-top: 10px; /* Margem superior para separar a tabela de vendas da tabela de clientes */
+}
+
+.img-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 56px); /* Ajuste para altura total da tela menos a altura da Navbar */
+    text-align: center;
+    margin-top: 20px;
+}
+
+.img-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
