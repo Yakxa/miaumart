@@ -1,6 +1,7 @@
 ﻿using MiauMart.Domain.DTOs.ClienteDTOs;
 using MiauMart.Domain.Interfaces;
 using MiauMart.Domain.Models;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 namespace MiauMart.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ClienteController : ControllerBase
     {
         private readonly IClienteService _clienteService;

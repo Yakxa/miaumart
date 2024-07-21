@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace MiauMart.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class VendaController : ControllerBase
     {
         private readonly IVendaService _vendaService;

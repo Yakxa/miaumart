@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace MiauMart.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ProdutoController : ControllerBase
     {
         private readonly IProdutoService _produtoService;
