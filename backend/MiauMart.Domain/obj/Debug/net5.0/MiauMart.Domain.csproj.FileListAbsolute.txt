@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\bin\Debug\net5.0\MiauMart.Domain.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\bin\Debug\net5.0\MiauMart.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\bin\Debug\net5.0\MiauMart.Domain.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\refint\MiauMart.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\ref\MiauMart.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\bin\Debug\net5.0\MiauMart.Domain.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\bin\Debug\net5.0\MiauMart.Domain.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Área de Trabalho\MiauMart\MiauMart.Domain\obj\Debug\net5.0\MiauMart.Domain.genruntimeconfig.cache

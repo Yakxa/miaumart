@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD30025-36BB-452E-BE8F-D0C11AD4ECB7}|MiauMart.API\\MiauMart.API.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\miaumart\\miaumart.api\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD30025-36BB-452E-BE8F-D0C11AD4ECB7}|MiauMart.API\\MiauMart.API.csproj|solutionrelative:miaumart.api\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B591C0-6D47-49F7-853F-9FE755C956C5}|MiauMart.Service\\MiauMart.Service.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\miaumart\\miaumart.service\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B591C0-6D47-49F7-853F-9FE755C956C5}|MiauMart.Service\\MiauMart.Service.csproj|solutionrelative:miaumart.service\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8821A-D447-4FFC-8546-07560DC68EBC}|MiauMart.Domain\\MiauMart.Domain.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\miaumart\\miaumart.domain\\interfaces\\ivendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D8821A-D447-4FFC-8546-07560DC68EBC}|MiauMart.Domain\\MiauMart.Domain.csproj|solutionrelative:miaumart.domain\\interfaces\\ivendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF6D4C8-9A6A-4AEA-9DCA-0DFE562BF1EA}|MiauMart.Dal\\MiauMart.Dal.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\miaumart\\miaumart.dal\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF6D4C8-9A6A-4AEA-9DCA-0DFE562BF1EA}|MiauMart.Dal\\MiauMart.Dal.csproj|solutionrelative:miaumart.dal\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8821A-D447-4FFC-8546-07560DC68EBC}|MiauMart.Domain\\MiauMart.Domain.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\miaumart\\miaumart.domain\\interfaces\\ivendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D8821A-D447-4FFC-8546-07560DC68EBC}|MiauMart.Domain\\MiauMart.Domain.csproj|solutionrelative:miaumart.domain\\interfaces\\ivendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendaController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.API\\Controllers\\VendaController.cs",
+              "RelativeDocumentMoniker": "MiauMart.API\\Controllers\\VendaController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.API\\Controllers\\VendaController.cs",
+              "RelativeToolTip": "MiauMart.API\\Controllers\\VendaController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:14:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendaService.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Service\\VendaService.cs",
+              "RelativeDocumentMoniker": "MiauMart.Service\\VendaService.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Service\\VendaService.cs",
+              "RelativeToolTip": "MiauMart.Service\\VendaService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvy8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:13:57.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVendaService.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Domain\\Interfaces\\IVendaService.cs",
+              "RelativeDocumentMoniker": "MiauMart.Domain\\Interfaces\\IVendaService.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Domain\\Interfaces\\IVendaService.cs",
+              "RelativeToolTip": "MiauMart.Domain\\Interfaces\\IVendaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:13:44.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Dal\\VendaRepository.cs",
+              "RelativeDocumentMoniker": "MiauMart.Dal\\VendaRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Dal\\VendaRepository.cs",
+              "RelativeToolTip": "MiauMart.Dal\\VendaRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:12:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Domain\\Interfaces\\IVendaRepository.cs",
+              "RelativeDocumentMoniker": "MiauMart.Domain\\Interfaces\\IVendaRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\MiauMart\\MiauMart.Domain\\Interfaces\\IVendaRepository.cs",
+              "RelativeToolTip": "MiauMart.Domain\\Interfaces\\IVendaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:10:47.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
